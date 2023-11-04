@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Msambili Ndaga</h1>
-<h3 align="center">A passionate Networker and Programmer from Tanzania</h3>
+[![MasterHead](https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif)](https://msabenda.io)
+<h1 align="center">Hi 👋, I'm Msambili Ndaga </h1>
+<h3 align="center">A passionate Network Engineer and Programmer from Tanzania 🇹🇿</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif>
+
+<img align="right" alt="Coding" width="1000" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabenda&label=Profile%20views&color=0e75b6&style=flat" alt="msabenda" /> </p>
 
