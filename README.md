@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif)](https://msabenda.io)
 <h1 align="center">Hi 👋, I'm Msambili Ndaga </h1>
-<h3 align="center">A passionate Network Engineer and Programmer from Tanzania 🇹🇿</h3>
+<h3 align="center">A passionate API Security Advocate and Cybersecurity expert from Tanzania 🇹🇿</h3>
 
 
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
