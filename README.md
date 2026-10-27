@@ -2,9 +2,11 @@
 
 # Msambili Ndaga
 
-### API Security Professional · Developer Advocate 🥑 · Cybersecurity Pro · DevSecOps
+### API Security Professional · Web Security · DevSecOps
 
-I help developers build APIs that are **secure by design**, easy to integrate, and ready to scale.
+#### Cybersecurity Pro · Developer Advocate 🥑 · AI Security Researcher
+
+I test and secure **APIs, web applications, and agentic AI systems** while helping developers build products that are secure by design, easy to integrate, and ready to scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://msabenda.github.io/remnant-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msambili-ndaga)
@@ -28,50 +30,53 @@ I help developers build APIs that are **secure by design**, easy to integrate, a
 
 ```text
 Role       Developer Advocate @ NEUROTECH AFRICA
-Focus      API Security · Cybersecurity · DevSecOps · Secure API Design
-Mission    Engineer secure APIs and make them easier to adopt
+Focus      API Security · Web Security · Agentic AI Security · DevSecOps
+Research   Security testing for agentic AI systems
+Mission    Find security weaknesses early and turn them into practical fixes
 Community  APICon Tanzania · APIsec University · NIST/NICE
 ```
 
-I work at the intersection of **API security, developer advocacy, and technical education**. At NEUROTECH AFRICA, I help developers integrate products such as **Snippe** and **Ghala** through clear documentation, practical examples, workshops, and hands-on technical support from onboarding to production.
+I work at the intersection of **cybersecurity, developer advocacy, and technical research**. At NEUROTECH AFRICA, I help developers integrate products such as **Snippe** and **Ghala** through clear documentation, practical examples, workshops, and hands-on technical support from onboarding to production.
 
-My security work focuses on finding API risks early, translating them into practical fixes, and helping teams adopt a secure-by-design mindset without compromising developer experience.
+My security work focuses on finding risks across API, web, and AI-powered systems, translating findings into practical fixes, and helping teams adopt a secure-by-design mindset without compromising developer experience.
 
 ## Technical Focus
 
 | Area | What I Work With |
 |---|---|
 | **API Security Testing** | Endpoint discovery, attack-surface mapping, BOLA/BFLA testing, authentication flaws, injection, rate-limit testing, and security validation |
+| **Web Security** | Application reconnaissance, access-control testing, session security, injection flaws, security misconfiguration, and OWASP Top 10 testing |
+| **Agentic AI Security** | Prompt injection, tool misuse, excessive agency, insecure output handling, context poisoning, data leakage, and trust-boundary testing |
 | **Identity & Access** | OAuth 2.0, OpenID Connect, JWT validation, session security, least privilege, and authorization design |
 | **Secure API Engineering** | REST and GraphQL security, threat modeling, input validation, error handling, secrets management, and secure-by-design reviews |
 | **DevSecOps** | Security gates, SAST/DAST, dependency and container scanning, CI/CD integration, remediation workflows, and observability |
 | **Developer Experience** | API documentation, SDK examples, integration guides, developer onboarding, troubleshooting, and technical content |
 
-### How I Approach API Security
+### Security Research & Engineering Workflow
 
 ```text
 DISCOVER  →  MODEL  →  TEST  →  REMEDIATE  →  AUTOMATE  →  MONITOR
  endpoints   threats   controls   findings     security     runtime
 ```
 
-I combine offensive testing with practical engineering guidance: understand the API attack surface, validate controls against realistic abuse cases, communicate risk clearly, and help teams move repeatable checks into the delivery pipeline.
+I combine offensive testing with practical engineering guidance: map the attack surface, model trust boundaries, validate controls against realistic abuse cases, communicate risk clearly, and move repeatable checks into the delivery pipeline.
 
-## Featured Work
+## Agentic AI Security Research
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>API Guardian Game</h3>
-      <p>An interactive learning platform for exploring real-world API attacks, vulnerable patterns, and practical defenses.</p>
-      <p><a href="https://api-guardian-game.onrender.com/"><strong>Launch the game →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>API Finder</h3>
-      <p>A Chrome extension for passive API reconnaissance, endpoint discovery, request analysis, findings export, and request testing.</p>
-      <p><strong>Browser security tooling · API reconnaissance</strong></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![Animated agentic AI security testing architecture](assets/agentic-ai-security.gif)
+
+</div>
+
+I am researching how autonomous and tool-using AI agents can fail across prompts, memory, identity, APIs, plugins, and external systems. My testing focuses on:
+
+- **Prompt and context attacks:** direct and indirect prompt injection, jailbreaks, and context poisoning
+- **Tool and API abuse:** unsafe function calls, confused-deputy behavior, and privilege escalation
+- **Agency and authorization:** excessive autonomy, missing approval boundaries, and weak least-privilege controls
+- **Data protection:** sensitive-data disclosure, memory leakage, and insecure output handling
+- **Agent trust boundaries:** insecure agent-to-agent communication, poisoned inputs, and untrusted external content
+- **Defensive validation:** guardrails, human-in-the-loop controls, monitoring, auditability, and incident response
 
 ## Security Toolkit
 
@@ -83,6 +88,14 @@ I combine offensive testing with practical engineering guidance: understand the 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth-2.0-334155?style=flat-square)
 ![OIDC](https://img.shields.io/badge/OpenID-Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**AI Security Research**
+
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Security_Testing-7C3AED?style=flat-square)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-Testing-E11D48?style=flat-square)
+![AI Red Teaming](https://img.shields.io/badge/AI-Red_Teaming-DC2626?style=flat-square)
+![Tool Security](https://img.shields.io/badge/AI_Tools-Least_Privilege-16A34A?style=flat-square)
 
 **Languages & Development**
 
@@ -139,9 +152,9 @@ I contribute through community building, cybersecurity mentorship, conference sp
 
 <div align="center">
 
-### Build securely. Document clearly. Empower developers.
+### Secure APIs. Harden web systems. Test AI agents.
 
-Open to conversations about **API security, developer advocacy, technical speaking, and community collaboration**.
+Open to conversations about **API security, web security, DevSecOps, agentic AI security research, developer advocacy, and technical speaking**.
 
 [Portfolio](https://msabenda.github.io/remnant-portfolio/) · [LinkedIn](https://linkedin.com/in/msambili-ndaga) · [X](https://twitter.com/msa2benda) · [Email](mailto:msabenda2@gmail.com)
 
