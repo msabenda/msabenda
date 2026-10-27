@@ -18,26 +18,43 @@ I help developers build APIs that are **secure by design**, easy to integrate, a
 
 ---
 
+<div align="center">
+
+![Animated secure API architecture](assets/secure-api-architecture.gif)
+
+</div>
+
 ## `whoami`
 
 ```text
 Role       Developer Advocate @ NEUROTECH AFRICA
 Focus      API Security · Cybersecurity · DevSecOps · Secure API Design
-Mission    Make secure APIs easier to build, understand, and integrate
-Community  Founder, APICon Tanzania · President, Cyber Club DIT
+Mission    Engineer secure APIs and make them easier to adopt
+Community  APICon Tanzania · APIsec University · NIST/NICE
 ```
 
 I work at the intersection of **API security, developer advocacy, and technical education**. At NEUROTECH AFRICA, I help developers integrate products such as **Snippe** and **Ghala** through clear documentation, practical examples, workshops, and hands-on technical support from onboarding to production.
 
 My security work focuses on finding API risks early, translating them into practical fixes, and helping teams adopt a secure-by-design mindset without compromising developer experience.
 
-## What I Work On
+## Technical Focus
 
-- **API security:** threat modeling, penetration testing, and OWASP API Security Top 10
-- **Secure architecture:** authentication, authorization, OAuth 2.0, OIDC, and JWT
-- **Developer experience:** API documentation, SDK examples, integrations, and support
-- **DevSecOps:** embedding security checks and practices throughout delivery workflows
-- **Technical education:** workshops, conference talks, tutorials, and mentorship
+| Area | What I Work With |
+|---|---|
+| **API Security Testing** | Endpoint discovery, attack-surface mapping, BOLA/BFLA testing, authentication flaws, injection, rate-limit testing, and security validation |
+| **Identity & Access** | OAuth 2.0, OpenID Connect, JWT validation, session security, least privilege, and authorization design |
+| **Secure API Engineering** | REST and GraphQL security, threat modeling, input validation, error handling, secrets management, and secure-by-design reviews |
+| **DevSecOps** | Security gates, SAST/DAST, dependency and container scanning, CI/CD integration, remediation workflows, and observability |
+| **Developer Experience** | API documentation, SDK examples, integration guides, developer onboarding, troubleshooting, and technical content |
+
+### How I Approach API Security
+
+```text
+DISCOVER  →  MODEL  →  TEST  →  REMEDIATE  →  AUTOMATE  →  MONITOR
+ endpoints   threats   controls   findings     security     runtime
+```
+
+I combine offensive testing with practical engineering guidance: understand the API attack surface, validate controls against realistic abuse cases, communicate risk clearly, and help teams move repeatable checks into the delivery pipeline.
 
 ## Featured Work
 
@@ -87,6 +104,7 @@ My security work focuses on finding API risks early, translating them into pract
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Community & Leadership
 
@@ -94,6 +112,7 @@ My security work focuses on finding API risks early, translating them into pract
 |---|---|
 | Founder & Community Lead | **APICon Tanzania** |
 | President | **Cyber Club DIT** |
+| Ambassador | **APIsec University** |
 | Cybersecurity Ambassador | **NIST / NICE** |
 | Governance Artifacts Fellow | **DIT–CEBOT Horizons Alliance** |
 
