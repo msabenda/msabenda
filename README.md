@@ -2,7 +2,7 @@
 
 # Msambili Ndaga
 
-### API Security Professional · Developer Advocate · Cybersecurity Educator
+### API Security Professional · Developer Advocate 🥑 · Cybersecurity Pro · DevSecOps
 
 I help developers build APIs that are **secure by design**, easy to integrate, and ready to scale.
 
@@ -22,7 +22,7 @@ I help developers build APIs that are **secure by design**, easy to integrate, a
 
 ```text
 Role       Developer Advocate @ NEUROTECH AFRICA
-Focus      API Security · Developer Experience · Secure API Design
+Focus      API Security · Cybersecurity · DevSecOps · Secure API Design
 Mission    Make secure APIs easier to build, understand, and integrate
 Community  Founder, APICon Tanzania · President, Cyber Club DIT
 ```
