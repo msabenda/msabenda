@@ -1,201 +1,129 @@
 <div align="center">
 
-# Hi, I'm Msambili Ndaga 👋
+# Msambili Ndaga
 
-### API Security Professional | Developer Advocate🥑 | API Security Advocate | Cybersecurity Professional
+### API Security Professional · Developer Advocate · Cybersecurity Educator
 
-Helping developers build **secure, scalable, and reliable API-powered applications** through Developer Experience (DX), API Security, technical education, and community leadership.
+I help developers build APIs that are **secure by design**, easy to integrate, and ready to scale.
 
-<p>
-  <a href="https://github.com/msabenda">
-    <img src="https://komarev.com/ghpvc/?username=msabenda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/msabenda?tab=followers">
-    <img src="https://img.shields.io/github/followers/msabenda?label=Followers&style=flat&color=blue" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://msabenda.github.io/remnant-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msambili-ndaga)
+[![X](https://img.shields.io/badge/@msa2benda-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/msa2benda)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msabenda2@gmail.com)
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Developer Advocate at NEUROTECH AFRICA**, where I help developers successfully integrate products like **Snippe** and **Ghala** by creating technical documentation, tutorials, SDK examples, workshops, and providing technical support throughout the developer journey—from onboarding to production.
-
-I'm passionate about bridging the gap between **developers and products** by improving **Developer Experience (DX)** while promoting **secure API development** and security best practices.
-
-Beyond my professional work, I actively contribute to the cybersecurity and developer communities through technical education, mentorship, conferences, and workshops.
-
----
-
-## 🚀 What I Do
-
-- Developer Advocacy & Developer Experience (DX)
-- API Security & Secure API Development
-- Technical Writing & API Documentation
-- API Integrations & SDKs
-- Technical Workshops & Conference Speaking
-- Developer Education & Community Building
-- Secure-by-Design Principles
-- API Penetration Testing
-- DevSecOps
-
----
-
-## 🌍 Community Leadership
-
-- **Founder & Community Lead** — APICon Tanzania
-- **President** — Cyber Club DIT
-- **NIST/NICE Cybersecurity Ambassador**
-- **Governance Artifacts Fellow** — DIT–CEBOT Horizons Alliance
-
----
-
-## Current Role
-
-### Developer Advocate @ NEUROTECH AFRICA
-
-I help developers integrate payment and business APIs by:
-
-- Writing API Documentation
-- Creating SDK Examples
-- Building Tutorials
-- Producing Developer Content
-- Supporting API Integrations
-- Troubleshooting Developer Issues
-- Improving Developer Experience
-- Advocating for Secure API Development
-
----
-
-## Featured Projects
-
-### API Guardian Game
-
-Interactive API Security learning platform focused on real-world API attack scenarios and defenses.
-
-🔗 https://api-guardian-game.onrender.com/
-
----
-
-### 🛰️ API Finder Extension
-
-Creator of **API Finder**, a Chrome extension for passive API reconnaissance.
-
-Features include:
-
-- API Endpoint Discovery
-- Passive API Reconnaissance
-- Request Analysis
-- Export Findings
-- Built-in Request Tester
-
----
-
-## Languages & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,php,laravel,java,cpp,c,js,ts,nodejs,vue,html,css,tailwind,mysql,postgres,docker,linux,git,github,vscode,postman,bash"/>
-
-</p>
-
----
-
-## 🔐 API Security Stack
-
-- OWASP API Security Top 10
-- REST API Security
-- GraphQL Security
-- OAuth 2.0
-- OpenID Connect (OIDC)
-- JWT Authentication
-- API Threat Modeling
-- API Penetration Testing
-- Secure API Design
-- API Documentation
-- DevSecOps
-
----
-
-## Favorite Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
----
-
-## 🏅 Certifications
-
-- 🥇 Certified API Red Team Analyst (CARTA)
-- 🥇 API Security Certified Associate (ASCA)
-- 🥇 APIsec University Graduate
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msabenda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msabenda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msabenda&theme=tokyonight&hide_border=true"/>
+![Profile views](https://komarev.com/ghpvc/?username=msabenda&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/msabenda?label=FOLLOWERS&style=flat-square&color=22c55e)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `whoami`
 
-Portfolio  
-https://msabenda.github.io/remnant-portfolio/
+```text
+Role       Developer Advocate @ NEUROTECH AFRICA
+Focus      API Security · Developer Experience · Secure API Design
+Mission    Make secure APIs easier to build, understand, and integrate
+Community  Founder, APICon Tanzania · President, Cyber Club DIT
+```
 
-LinkedIn  
-https://linkedin.com/in/msambili-ndaga
+I work at the intersection of **API security, developer advocacy, and technical education**. At NEUROTECH AFRICA, I help developers integrate products such as **Snippe** and **Ghala** through clear documentation, practical examples, workshops, and hands-on technical support from onboarding to production.
 
-X (Twitter)  
-https://twitter.com/msa2benda
+My security work focuses on finding API risks early, translating them into practical fixes, and helping teams adopt a secure-by-design mindset without compromising developer experience.
 
-Email  
-msabenda2@gmail.com
+## What I Work On
 
----
+- **API security:** threat modeling, penetration testing, and OWASP API Security Top 10
+- **Secure architecture:** authentication, authorization, OAuth 2.0, OIDC, and JWT
+- **Developer experience:** API documentation, SDK examples, integrations, and support
+- **DevSecOps:** embedding security checks and practices throughout delivery workflows
+- **Technical education:** workshops, conference talks, tutorials, and mentorship
 
-## 💡 Fun Facts
+## Featured Work
 
-- 🥑 API Security Advocate
-- 💙 Passionate about Developer Experience (DX)
-- 🌍 Building Africa's API Developer Community
-- 🎤 Technical Speaker & Workshop Facilitator
-- 👨‍🏫 Cybersecurity Mentor
-- ☕ Coffee + APIs = Productivity
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>API Guardian Game</h3>
+      <p>An interactive learning platform for exploring real-world API attacks, vulnerable patterns, and practical defenses.</p>
+      <p><a href="https://api-guardian-game.onrender.com/"><strong>Launch the game →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>API Finder</h3>
+      <p>A Chrome extension for passive API reconnaissance, endpoint discovery, request analysis, findings export, and request testing.</p>
+      <p><strong>Browser security tooling · API reconnaissance</strong></p>
+    </td>
+  </tr>
+</table>
+
+## Security Toolkit
+
+**API & Identity**
+
+![OWASP](https://img.shields.io/badge/OWASP-API_Security_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API_Security-0EA5E9?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-Security-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth-2.0-334155?style=flat-square)
+![OIDC](https://img.shields.io/badge/OpenID-Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Languages & Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Security & Infrastructure**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=zap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Community & Leadership
+
+| Role | Organization |
+|---|---|
+| Founder & Community Lead | **APICon Tanzania** |
+| President | **Cyber Club DIT** |
+| Cybersecurity Ambassador | **NIST / NICE** |
+| Governance Artifacts Fellow | **DIT–CEBOT Horizons Alliance** |
+
+I contribute through community building, cybersecurity mentorship, conference speaking, and practical workshops that make API security accessible to more developers across Africa.
+
+## Certifications
+
+- **Certified API Red Team Analyst (CARTA)**
+- **API Security Certified Associate (ASCA)**
+- **APIsec University Graduate**
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=msabenda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Msambili's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msabenda&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Msambili's most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msabenda&theme=github-dark-blue&hide_border=true" alt="Msambili's GitHub contribution streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Favorite Quote
+### Build securely. Document clearly. Empower developers.
 
-> **"Building secure APIs, empowering developers, and growing communities through technology."**
+Open to conversations about **API security, developer advocacy, technical speaking, and community collaboration**.
 
-⭐️ From **Msambili Ndaga**
+[Portfolio](https://msabenda.github.io/remnant-portfolio/) · [LinkedIn](https://linkedin.com/in/msambili-ndaga) · [X](https://twitter.com/msa2benda) · [Email](mailto:msabenda2@gmail.com)
 
 </div>
